@@ -1,0 +1,32 @@
+<svg height="60" viewBox="0 0 60 60" width="60" xmlns="http://www.w3.org/2000/svg">
+  <g id="btn_navi_explore" transform="translate(-268 -2023)">
+    <g id="그룹_28" transform="translate(1 2.25)">
+      <g fill="#333" id="사각형_16" stroke="#333" stroke-width="2" transform="translate(277 2034)">
+        <rect height="38" stroke="none" width="30" />
+        <rect fill="none" height="36" width="28" x="1" y="1" />
+      </g>
+      <g fill="#333" id="패스_11" transform="translate(310 2046)">
+        <path
+            d="M 6 25 L 1 25 L 1 0.414220005273819 L 3.450016498565674 -2.035796403884888 L 6 0.4247138500213623 L 6 25 Z"
+            stroke="none" />
+        <path
+            d="M 3.462522745132446 -0.6341037750244141 L 2 0.8284206390380859 L 2 24 L 5 24 L 5 0.8494281768798828 L 3.462522745132446 -0.6341037750244141 M 3.4375 -3.4375 L 7 0 L 7 26 L 0 26 L 0 0 L 3.4375 -3.4375 Z"
+            fill="#333" stroke="none" />
+      </g>
+      <path d="M312.75,2066.625h7" fill="none" id="패스_12" stroke="#fff" stroke-width="2"
+          transform="translate(-2.75 -1)" />
+      <g fill="none" id="사각형_17" stroke="#fff" stroke-width="2" transform="translate(283 2041)">
+        <rect height="8" stroke="none" width="18" />
+        <rect fill="none" height="6" width="16" x="1" y="1" />
+      </g>
+      <g fill="none" id="패스_13" transform="translate(280 2031)">
+        <path
+            d="M 9 4 L 1 4 L 1 -0.1014353185892105 L 4.614089965820312 1.13375997543335 L 4.933499813079834 1.242930054664612 L 5.253729820251465 1.13618004322052 L 9 -0.1125766634941101 L 9 4 Z"
+            stroke="none" />
+        <path
+            d="M 8 1.274856567382812 L 4.929500102996826 2.298349857330322 L 2 1.297126054763794 L 2 3 L 8 3 L 8 1.274856567382812 M 0 -1.5 L 4.9375 0.1875 L 10 -1.5 L 10 5 L 0 5 L 0 -1.5 Z"
+            fill="#333" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

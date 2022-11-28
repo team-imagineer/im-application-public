@@ -1,0 +1,13 @@
+<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <g id="ic_download" transform="translate(-188 -1371)">
+        <g id="그룹_73">
+            <path d="M192.207,1390.568v6h24v-6" fill="none" id="패스_32" stroke="#333"
+                stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+            <path d="M197.344,1387.25l4,4,4-4" fill="none" id="패스_33" stroke="#333"
+                stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                transform="translate(2.862 -0.682)" />
+            <path d="M201.344,1390.568V1378.95" fill="none" id="패스_34" stroke="#333"
+                stroke-linecap="round" stroke-width="2" transform="translate(2.862 -0.682)" />
+        </g>
+    </g>
+</svg>

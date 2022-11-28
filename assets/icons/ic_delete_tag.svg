@@ -1,0 +1,9 @@
+<svg height="36" viewBox="0 0 36 36" width="36" xmlns="http://www.w3.org/2000/svg">
+  <g id="btn_clear" transform="translate(-391 -624)">
+    <circle cx="18" cy="18" fill="#d4d6de" id="타원_6" r="18" transform="translate(391 624)" />
+    <path d="M6741.471,9282.906l10,10" fill="none" id="패스_35" stroke="#888b98"
+        stroke-linecap="round" stroke-width="2" transform="translate(-6337.472 -8645.905)" />
+    <path d="M6751.472,9282.906l-10,10" fill="none" id="패스_36" stroke="#888b98"
+        stroke-linecap="round" stroke-width="2" transform="translate(-6337.472 -8645.905)" />
+  </g>
+</svg>

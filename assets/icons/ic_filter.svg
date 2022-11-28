@@ -1,0 +1,28 @@
+<svg height="60" viewBox="0 0 183 60" width="183" xmlns="http://www.w3.org/2000/svg">
+    <g id="그룹_54" transform="translate(-394 -381)">
+        <rect fill="#fff0d6" height="60" id="사각형_33" rx="20" transform="translate(394 381)"
+            width="183" />
+        <g id="그룹_53" transform="translate(425 400.646)">
+            <path d="M5075.948,3441.975h22" fill="none" id="패스_24" stroke="#e9990d"
+                stroke-linecap="round" stroke-width="2"
+                transform="translate(-5075.948 -3437.461)" />
+            <path d="M5075.948,3441.975h22" fill="none" id="패스_25" stroke="#e9990d"
+                stroke-linecap="round" stroke-width="2"
+                transform="translate(-5075.948 -3425.815)" />
+            <g fill="#fff0d6" id="타원_3" stroke="#e9990d" stroke-width="2"
+                transform="translate(2.588)">
+                <circle cx="4.529" cy="4.529" r="4.529" stroke="none" />
+                <circle cx="4.529" cy="4.529" fill="none" r="3.529" />
+            </g>
+            <g fill="#fff0d6" id="타원_4" stroke="#e9990d" stroke-width="2"
+                transform="translate(11 11.647)">
+                <circle cx="4.529" cy="4.529" r="4.529" stroke="none" />
+                <circle cx="4.529" cy="4.529" fill="none" r="3.529" />
+            </g>
+        </g>
+        <text fill="#e9990d" font-family="Pretendard-Regular, Pretendard" font-size="24" id="필터설정"
+            transform="translate(466 420)">
+            <tspan x="0" y="0">필터설정</tspan>
+        </text>
+    </g>
+</svg>

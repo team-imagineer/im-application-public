@@ -1,0 +1,16 @@
+<svg height="60" viewBox="0 0 60 60" width="60" xmlns="http://www.w3.org/2000/svg">
+    <g id="btn_navi_explore" transform="translate(-268 -2023)">
+        <g id="그룹_27" transform="translate(0 2)">
+            <path d="M298,2034.349s-7-4.492-17.857-1.982v30.124s9.571-2.246,17.857,2.114Z"
+                fill="none" id="패스_7" stroke="#333" stroke-width="2"
+                transform="translate(0 3.208)" />
+            <path d="M280.143,2034.349s7-4.492,17.857-1.982v30.124s-9.571-2.246-17.857,2.114Z"
+                fill="none" id="패스_8" stroke="#333" stroke-width="2"
+                transform="translate(17.857 3.208)" />
+            <path d="M280.143,2038.286h-4.714v32.143h23.143V2068" fill="none" id="패스_9"
+                stroke="#333" stroke-width="2" transform="translate(-0.571)" />
+            <path d="M293.857,2038.286h4.714v32.143H275.429V2068" fill="none" id="패스_10"
+                stroke="#333" stroke-width="2" transform="translate(22.571)" />
+        </g>
+    </g>
+</svg>

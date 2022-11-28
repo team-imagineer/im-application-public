@@ -1,0 +1,14 @@
+<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <g id="ic_download" transform="translate(-188 -1371)">
+        <g id="그룹_81" transform="translate(196.5 1377)">
+            <g id="그룹_82" transform="translate(0.5 0.5)">
+                <path
+                    d="M3.872,15.5.837,15.163.5,12.128,11.766.862a1.233,1.233,0,0,1,1.745,0l1.627,1.627a1.233,1.233,0,0,1,0,1.745Z"
+                    fill="none" id="패스_41" stroke="#333" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="2" transform="translate(-0.5 -0.5)" />
+            </g>
+        </g>
+        <path d="M192.207,1396.75h24" fill="none" id="패스_42" stroke="#333" stroke-linecap="round"
+            stroke-width="2" transform="translate(0.293)" />
+    </g>
+</svg>

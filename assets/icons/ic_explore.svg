@@ -1,0 +1,14 @@
+<svg height="60" viewBox="0 0 60 60" width="60" xmlns="http://www.w3.org/2000/svg">
+    <g id="btn_navi_explore" transform="translate(-268 -2023)">
+        <g fill="none" id="타원_2" stroke="#333" stroke-width="2" transform="translate(275 2030)">
+            <circle cx="23" cy="23" r="23" stroke="none" />
+            <circle cx="23" cy="23" fill="none" r="22" />
+        </g>
+        <g id="그룹_26" transform="translate(1539.662 388.486) rotate(45)">
+            <path d="M297.043,2042.625l-4.543,11.93,4.543,12.773,4.44-12.773Z" fill="none" id="패스_5"
+                stroke="#333" stroke-width="2" transform="translate(2.01 0)" />
+            <path d="M294.5,2053.625h9.17" fill="none" id="패스_6" stroke="#333" stroke-width="2"
+                transform="translate(-0.083 1.352)" />
+        </g>
+    </g>
+</svg>
